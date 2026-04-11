@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+# Large / generated artifacts
+artifacts/
+*.joblib
+*.pkl
+*.bin
+*.onnx
+*.pt
+*.h5
+
+# Optional local-only data if not required in repo
+# data/*.csv

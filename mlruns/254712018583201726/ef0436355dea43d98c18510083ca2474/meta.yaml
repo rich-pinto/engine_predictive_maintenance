@@ -1,0 +1,14 @@
+artifact_uri: file:///content/engine_predictive_maintenance/mlruns/254712018583201726/ef0436355dea43d98c18510083ca2474/artifacts
+end_time: 1775919666580
+entry_point_name: ''
+experiment_id: '254712018583201726'
+lifecycle_stage: active
+run_id: ef0436355dea43d98c18510083ca2474
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775919666565
+status: 3
+tags: []
+user_id: root

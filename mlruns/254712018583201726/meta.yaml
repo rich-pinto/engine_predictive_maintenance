@@ -1,0 +1,8 @@
+artifact_location: file:///content/engine_predictive_maintenance/mlruns/254712018583201726
+creation_time: 1775919273589
+experiment_id: '254712018583201726'
+last_update_time: 1775919273589
+lifecycle_stage: active
+name: engine_predictive_maintenance_interim
+trace_location: null
+workspace: default

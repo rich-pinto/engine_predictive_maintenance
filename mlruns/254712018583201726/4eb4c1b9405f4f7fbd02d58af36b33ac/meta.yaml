@@ -1,0 +1,14 @@
+artifact_uri: file:///content/engine_predictive_maintenance/mlruns/254712018583201726/4eb4c1b9405f4f7fbd02d58af36b33ac/artifacts
+end_time: 1775919528869
+entry_point_name: ''
+experiment_id: '254712018583201726'
+lifecycle_stage: active
+run_id: 4eb4c1b9405f4f7fbd02d58af36b33ac
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775919528852
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,13 @@
+{
+    "model": "GradientBoosting",
+    "sensitivity": 0.8692651238327244,
+    "specificity": 0.3157894736842105,
+    "f1": 0.7657367668097281,
+    "roc_auc": 0.700410676347899,
+    "balanced_selection_score": 0.6933050951425141,
+    "best_params": {
+        "learning_rate": 0.05,
+        "max_depth": 2,
+        "n_estimators": 100
+    }
+}
